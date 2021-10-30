@@ -240,6 +240,7 @@ description = "The lightning-fast ASGI server."
 category = "main"
 optional = false
 python-versions = "*"
+python-versions = "*"
 
 [package.dependencies]
 asgiref = ">=3.4.0"
